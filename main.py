@@ -1,8 +1,3 @@
-'''
-Pablo Bedolla
-Monday January 18, 2021
-AP Computer Science
-'''
 # Imports & Functions
 import random
 from random import randint
